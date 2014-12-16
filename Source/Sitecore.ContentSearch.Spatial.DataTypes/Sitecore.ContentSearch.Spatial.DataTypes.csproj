@@ -65,6 +65,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Converters\SpatialPointValueConverter.cs" />
     <Compile Include="CustomControls\GeoLocationControl.cs" />
     <Compile Include="FieldReaders\SpatialPointFieldReader.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
