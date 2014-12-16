@@ -4,9 +4,12 @@ Sitecore.ContentSearch.Spatial.Solr
 This module is an extension for the Sitecore Solr Search Provider that allows users to run Solr spatial queries on Sitecore items.
 
 The module contains the following components:
-A custom data type in Sitecore (LatLon) that can store coordinates which can be added to any template. The LatLon data type provides a custom GUI based on Google map (via the Content Editor) to easily locate the places.
-An extended Solr search index provider that must be used instead of the default one.
-A set of IQueryable extension methods to implement the spatial search.
+
+1- A custom data type in Sitecore (LatLon) that can store coordinates which can be added to any template. The LatLon data type provides a custom GUI based on Google map (via the Content Editor) to easily locate the places.
+
+2- An extended Solr search index provider that must be used instead of the default one.
+
+3- A set of IQueryable extension methods to implement the spatial search.
 
 Supported Queries:
 
