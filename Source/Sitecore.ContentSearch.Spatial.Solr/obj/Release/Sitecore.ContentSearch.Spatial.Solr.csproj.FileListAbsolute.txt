@@ -1,0 +1,5 @@
+C:\Users\Ehab ElGindy\Source\Repos\Sitecore.ContentSearch.Spatial\Source\Sitecore.ContentSearch.Spatial.Solr\bin\Release\Sitecore.ContentSearch.Spatial.Solr.dll
+C:\Users\Ehab ElGindy\Source\Repos\Sitecore.ContentSearch.Spatial\Source\Sitecore.ContentSearch.Spatial.Solr\bin\Release\Sitecore.ContentSearch.Spatial.Solr.pdb
+C:\Users\Ehab ElGindy\Source\Repos\Sitecore.ContentSearch.Spatial\Source\Sitecore.ContentSearch.Spatial.Solr\obj\Release\Sitecore.ContentSearch.Spatial.Solr.csprojResolveAssemblyReference.cache
+C:\Users\Ehab ElGindy\Source\Repos\Sitecore.ContentSearch.Spatial\Source\Sitecore.ContentSearch.Spatial.Solr\obj\Release\Sitecore.ContentSearch.Spatial.Solr.dll
+C:\Users\Ehab ElGindy\Source\Repos\Sitecore.ContentSearch.Spatial\Source\Sitecore.ContentSearch.Spatial.Solr\obj\Release\Sitecore.ContentSearch.Spatial.Solr.pdb

@@ -1,0 +1,80 @@
+<project>
+  <Metadata>
+    <metadata>
+      <PackageName>Solr Spatial Support</PackageName>
+      <Author>Ehab ElGindy</Author>
+      <Version>1.0</Version>
+      <Revision />
+      <License />
+      <Comment />
+      <Attributes />
+      <Readme />
+      <Publisher />
+      <PostStep />
+      <PackageID />
+    </metadata>
+  </Metadata>
+  <SaveProject>True</SaveProject>
+  <Sources>
+    <xfiles>
+      <Entries>
+        <x-item>/App_Config/Include/ContentSearch.Spatial/SpaitalSearch.Solr.config</x-item>
+        <x-item>/bin/Sitecore.ContentSearch.Spatial.DataTypes.dll</x-item>
+        <x-item>/bin/Sitecore.ContentSearch.Spatial.Solr.dll</x-item>
+        <x-item>/sitecore/shell/Applications/GeoLocation/Map.aspx</x-item>
+      </Entries>
+      <Converter>
+        <FileToEntryConverter>
+          <Root>/</Root>
+          <Transforms>
+            <InstallerConfigurationTransform>
+              <Options>
+                <BehaviourOptions>
+                  <ItemMode>Undefined</ItemMode>
+                  <ItemMergeMode>Undefined</ItemMergeMode>
+                </BehaviourOptions>
+              </Options>
+            </InstallerConfigurationTransform>
+          </Transforms>
+        </FileToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Static files</Name>
+    </xfiles>
+    <xitems>
+      <Entries>
+        <x-item>/core/sitecore/system/Field types/Custom Field Types/{4ABA16E0-6677-4259-9A74-7CC598B95432}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Field types/Custom Field Types/LatLon/{979C10CE-1CFC-464C-ADB4-32CB213B14EF}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Field types/Custom Field Types/LatLon/Menu/{E9A5FAD4-17E8-44C0-95B2-339986830C5A}/invariant/0</x-item>
+        <x-item>/core/sitecore/system/Field types/Custom Field Types/LatLon/Menu/Refresh map/{DBD9E3E3-A233-41D8-A139-4637893507B3}/invariant/0</x-item>
+      </Entries>
+      <SkipVersions>False</SkipVersions>
+      <Converter>
+        <ItemToEntryConverter>
+          <Transforms>
+            <InstallerConfigurationTransform>
+              <Options>
+                <BehaviourOptions>
+                  <ItemMode>Undefined</ItemMode>
+                  <ItemMergeMode>Undefined</ItemMergeMode>
+                </BehaviourOptions>
+              </Options>
+            </InstallerConfigurationTransform>
+          </Transforms>
+        </ItemToEntryConverter>
+      </Converter>
+      <Include />
+      <Exclude />
+      <Name>Static items</Name>
+    </xitems>
+  </Sources>
+  <Converter>
+    <TrivialConverter>
+      <Transforms />
+    </TrivialConverter>
+  </Converter>
+  <Include />
+  <Exclude />
+  <Name />
+</project>
