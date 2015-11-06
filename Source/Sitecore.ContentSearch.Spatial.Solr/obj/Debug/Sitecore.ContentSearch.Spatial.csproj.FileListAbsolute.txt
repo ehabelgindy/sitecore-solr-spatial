@@ -1,6 +1,0 @@
-C:\Users\Ehab ElGindy\Source\Repos\Sitecore.ContentSearch.Spatial\Source\Sitecore.ContentSearch.Spatial\bin\Debug\Sitecore.ContentSearch.Spatial.dll
-C:\Users\Ehab ElGindy\Source\Repos\Sitecore.ContentSearch.Spatial\Source\Sitecore.ContentSearch.Spatial\bin\Debug\Sitecore.ContentSearch.Spatial.pdb
-C:\Users\Ehab ElGindy\Source\Repos\Sitecore.ContentSearch.Spatial\Source\Sitecore.ContentSearch.Spatial\bin\Debug\Spatial4n.Core.dll
-C:\Users\Ehab ElGindy\Source\Repos\Sitecore.ContentSearch.Spatial\Source\Sitecore.ContentSearch.Spatial\obj\Debug\Sitecore.ContentSearch.Spatial.dll
-C:\Users\Ehab ElGindy\Source\Repos\Sitecore.ContentSearch.Spatial\Source\Sitecore.ContentSearch.Spatial\obj\Debug\Sitecore.ContentSearch.Spatial.pdb
-C:\Users\Ehab ElGindy\Source\Repos\Sitecore.ContentSearch.Spatial\Source\Sitecore.ContentSearch.Spatial\obj\Debug\Sitecore.ContentSearch.Spatial.csprojResolveAssemblyReference.cache

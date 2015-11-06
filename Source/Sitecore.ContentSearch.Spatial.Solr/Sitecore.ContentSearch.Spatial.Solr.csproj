@@ -30,6 +30,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="Sitecore.Abstractions">
+      <HintPath>..\SharedLibrary\Sitecore\Sitecore.Abstractions.dll</HintPath>
+      <Private>False</Private>
+    </Reference>
     <Reference Include="Sitecore.ContentSearch">
       <HintPath>..\SharedLibrary\Sitecore\Sitecore.ContentSearch.dll</HintPath>
       <Private>False</Private>
