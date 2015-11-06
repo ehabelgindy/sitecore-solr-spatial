@@ -1,4 +1,0 @@
-C:\Users\Ehab ElGindy\Source\Repos\Sitecore.ContentSearch.Spatial\Source\Sitecore.ContentSearch.Spatial.DataTypes\bin\Sitecore.ContentSearch.Spatial.DataTypes.dll
-C:\Users\Ehab ElGindy\Source\Repos\Sitecore.ContentSearch.Spatial\Source\Sitecore.ContentSearch.Spatial.DataTypes\bin\Sitecore.ContentSearch.Spatial.DataTypes.pdb
-C:\Users\Ehab ElGindy\Source\Repos\Sitecore.ContentSearch.Spatial\Source\Sitecore.ContentSearch.Spatial.DataTypes\obj\Debug\Sitecore.ContentSearch.Spatial.DataTypes.dll
-C:\Users\Ehab ElGindy\Source\Repos\Sitecore.ContentSearch.Spatial\Source\Sitecore.ContentSearch.Spatial.DataTypes\obj\Debug\Sitecore.ContentSearch.Spatial.DataTypes.pdb
