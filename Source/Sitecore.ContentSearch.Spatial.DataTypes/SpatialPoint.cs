@@ -22,7 +22,7 @@ namespace Sitecore.ContentSearch.Spatial.DataTypes
             var strLat = tokens[0].Trim();
             var strLon = tokens[1].Trim();
             Lat = double.Parse(strLat);
-            Lon = double.Parse(strLat);
+            Lon = double.Parse(strLon);
         }
 
         protected string RawValue { get; set; }
